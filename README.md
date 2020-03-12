@@ -9,6 +9,9 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #167 Enum Class
+![alt text](/screenshots/enum_classes.PNG)
+
 ### #166 Localizing Firebase Push Notifications
 ![alt text](/screenshots/AndroidLocalizedPushNotifications.png)
 
